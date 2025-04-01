@@ -1,4 +1,4 @@
-# Laravel 10 簡化 Eloquent 模型的按日期篩選條件
+# Laravel 11 簡化 Eloquent 模型的按日期篩選條件
 
 引入 omar-elnaghy 的 laradate-filters 套件來擴增簡化 Eloquent 模型的按日期篩選條件，它提供了一組方便的方法來根據各種日期和時間間隔過濾記錄。
 
@@ -26,5 +26,5 @@ $ php artisan migrate --seed
 ----
 
 ## 畫面截圖
-![](https://i.imgur.com/o6SsB16.png)
+![](https://i.imgur.com/oy8PtwE.png)
 > 在日期範圍內來篩選記錄
